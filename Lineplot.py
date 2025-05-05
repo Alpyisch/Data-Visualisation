@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-file_path = r"C:\Users\alper\OneDrive\Masaüstü\Ders Notları\3.Sınıf\Veri Gorsellestirme\ybs_taban_puanlari.xlsx"
+file_path = r"Excel File"
 df = pd.read_excel(file_path)
 
 print("Orijinal veri örneği:")

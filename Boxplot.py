@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
-file_path = r"C:\Users\alper\OneDrive\Masaüstü\Ders Notları\3.Sınıf\Veri Gorsellestirme\ybs_taban_puanlari.xlsx"
+file_path = r"Excel File"
 df = pd.read_excel(file_path)
 
 for year in [2020, 2021, 2022, 2023, 2024]:
