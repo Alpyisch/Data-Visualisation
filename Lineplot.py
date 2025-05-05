@@ -59,7 +59,7 @@ theme_colors = {
     'fill': '#e69b6a',
     'text': '#4A4A4A',
     'grid': '#CCCCCC',
-    'aksaray': '#73361C'  # Aksaray için renk tonu
+    'aksaray': '#73361C'  # a color for aksaray universtiy
 }
 
 plt.style.use('seaborn-v0_8')
