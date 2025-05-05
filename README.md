@@ -63,10 +63,6 @@ Core technologies used in this project:
 4. Push to your branch (`git push origin new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the [MIT](LICENSE) License.
-
 ## Contact
 
 Alpyisch - [GitHub](https://github.com/Alpyisch)
@@ -141,10 +137,6 @@ Bu projede kullanılan temel teknolojiler:
 3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request oluşturun
-
-## Lisans
-
-Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## İletişim
 
