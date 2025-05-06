@@ -18,14 +18,11 @@ This project was created to visualize data in a more understandable and effectiv
 Follow these steps to run the project on your local machine:
 
 ```bash
-# Clone the repository
 git clone https://github.com/Alpyisch/Data-Visualisation.git
 
-# Switch to the Graphs branch
 git checkout Graphs
 
-# Install required dependencies (may vary based on the libraries used in the project)
-pip install -r requirements.txt  # If it's a Python project
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -62,10 +59,6 @@ Core technologies used in this project:
 3. Commit your changes (`git commit -am 'New feature: Description'`)
 4. Push to your branch (`git push origin new-feature`)
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the [MIT](LICENSE) License.
 
 ## Contact
 

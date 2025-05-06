@@ -18,14 +18,12 @@ Bu proje, verilerin daha anlaşılır ve etkili bir şekilde görselleştirilmes
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ```bash
-# Repoyu klonlayın
+
 git clone https://github.com/Alpyisch/Data-Visualisation.git
 
-# Graphs dalına geçiş yapın
 git checkout Graphs
 
-# Gerekli bağımlılıkları yükleyin (projenin kullandığı kütüphanelere göre değişebilir)
-pip install -r requirements.txt  # Eğer Python projesi ise
+pip install -r requirements.txt 
 ```
 
 ## Kullanım
@@ -62,10 +60,6 @@ Bu projede kullanılan temel teknolojiler:
 3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request oluşturun
-
-## Lisans
-
-Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## İletişim
 
